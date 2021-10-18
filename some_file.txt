@@ -1,4 +1,3 @@
 some_file.txt
 
-
-Some change.
+Correct change
